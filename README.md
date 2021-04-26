@@ -9,3 +9,4 @@ A VIM based code editor
 - Holding the shift makes actions faster
 - ```CTRL + S``` Save
 - ```CTRL + O``` Open a new file
+- ```F11``` Toggle Fullscreen
