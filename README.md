@@ -15,3 +15,19 @@
 - ```CTRL + UP ARROW``` Move Line To Up
 - ```CTRL + DOWN ARROW``` Move Line To Down
 - ```F11``` Toggle Fullscreen
+
+## MODIFY THE THEME
+- Modify ```\config\theme.ini```
+- If the file does not exist, just open the application
+- Default:
+```ini
+color_background=blue
+color_line_current=black
+color_line_number=blue
+color_line_number_current=yellow
+color_line_number_background=white
+color_carret=red
+color_carret_trail=white
+color_bottom_bar_background=white
+color_bottom_bar_text=blue
+```
