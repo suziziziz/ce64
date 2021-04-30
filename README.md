@@ -19,7 +19,7 @@
 ## MODIFY THE THEME
 - Modify ```\config\theme.ini```
 - If the file does not exist, just open the application
-- Default:
+### Default Config:
 ```ini
 color_background=blue
 color_line_current=black
@@ -31,7 +31,7 @@ color_carret_trail=white
 color_bottom_bar_background=white
 color_bottom_bar_text=blue
 ```
-- Colors:
+### Colors:
 ```
 white
 black
