@@ -38,6 +38,7 @@ black
 red
 green
 blue
+yellow
 pink
 cian
 ```
