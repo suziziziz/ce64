@@ -31,3 +31,13 @@ color_carret_trail=white
 color_bottom_bar_background=white
 color_bottom_bar_text=blue
 ```
+- Colors:
+```
+white
+black
+red
+green
+blue
+pink
+cian
+```
