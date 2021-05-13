@@ -21,6 +21,7 @@
 - If the file does not exist, just open the application
 ### Default Config:
 ```ini
+[THEME]
 color_background=blue
 color_line_current=black
 color_line_number=blue
