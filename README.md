@@ -1,5 +1,5 @@
 # CE64 ( Code Editor 64 )
- A VIM based code editor
+ A C64 based code editor
 
 ## DOWNLOAD
  [CE64](https://github.com/suziziziz/ce64/raw/main/release/CE64.exe)
